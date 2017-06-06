@@ -1,6 +1,7 @@
 # Fake News Model
 # Made by Rodrigo Takeshi and Francisca Joamila
-# Discipline CAP-241: Computação Aplicada of Graduate degree program in National Institute for Space Research (INPE)
+
+CAP-241: Computação Aplicada of Graduate degree program in National Institute for Space Research (INPE)
 
 An empiric fake news spreading model using cellular automata.
 
