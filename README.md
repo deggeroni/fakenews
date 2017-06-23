@@ -1,4 +1,6 @@
-# Fake News Model ![alt text](http://www.keepcad.com.br/admin/ckeditor/kcfinder/upload/images/blog%202015/logo_inpe.gif "INPE Logo")
+![alt text](http://www.keepcad.com.br/admin/ckeditor/kcfinder/upload/images/blog%202015/logo_inpe.gif "INPE Logo")
+
+# Fake News Model
 # Made by Rodrigo Takeshi and Francisca Joamila
 
 
