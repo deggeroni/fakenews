@@ -1,8 +1,8 @@
 # Fake News Model
 # Made by Rodrigo Takeshi and Francisca Joamila
+![alt text](http://www.keepcad.com.br/admin/ckeditor/kcfinder/upload/images/blog%202015/logo_inpe.gif "INPE Logo")
 
-CAP-241: Computação Aplicada of Graduate degree program in National Institute for Space Research (INPE)
-
+CAP-241: Computação Aplicada of Graduate degree program in National Institute for Space Research (INPE) 
 This model was made using Lua Programming Language and can be executed [by using Terra-ME](http://www.ccst.inpe.br/modelagem/terra-me-ambiente-computacional-multi-paradigma-para-o-desenvolvimento-de-modelos-integrados-natureza-sociedade/) 
 
 
