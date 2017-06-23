@@ -3,9 +3,7 @@
 
 CAP-241: Computação Aplicada of Graduate degree program in National Institute for Space Research (INPE)
 
-This model was made using Lua Programming Language and can be executed by using Terra-ME: http://www.ccst.inpe.br/modelagem/terra-me-ambiente-computacional-multi-paradigma-para-o-desenvolvimento-de-modelos-integrados-natureza-sociedade/ 
-
-
+This model was made using Lua Programming Language and can be executed [by using Terra-ME](http://www.ccst.inpe.br/modelagem/terra-me-ambiente-computacional-multi-paradigma-para-o-desenvolvimento-de-modelos-integrados-natureza-sociedade/) 
 
 
 An empiric fake news spreading model using cellular automata.
